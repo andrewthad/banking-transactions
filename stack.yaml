@@ -1,0 +1,8 @@
+resolver: lts-9.13
+packages:
+- .
+extra-deps:
+- 'siphon-0.7'
+- 'colonnade-1.1.1'
+flags: {}
+extra-package-dbs: []
